@@ -1,20 +1,12 @@
 ```
-import com.hy2n.Profile;
-
-public class Main {
-  public static void main(String[] args) {
-    Person me = new Person();
-    me.printFullName();
-    me.printContacts();
-  }
-}
-
-class Person implements Profile {
-  public void printFullName() {
-    System.out.println("donghyun Lee");
-  }
-  public void printContacts() {
-    System.out.println("me@donghyun.cc");
-  }
+export const me = {
+    name: "Lee Donghyun",
+    email: "leedonghyun@ncloud.sbs",
+    skills: {
+        back-end: ['mysql', 'sqlite', 'redis', 'API design', 'SW architecture'],
+        nodeJS: ['expressJS', 'typeorm', 'jsonwebtoken'],
+        springBoot: ['JPA', 'REST APIs', 'Spring Security'],
+        devOps: ['Docker', 'CI/CD', 'Kubernetes', 'AWS']
+    }
 }
 ```
