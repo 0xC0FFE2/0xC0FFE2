@@ -1,12 +1,1 @@
-```
-export const me = {
-    name: "Lee Donghyun",
-    email: "leedonghyun@ncloud.sbs",
-    skills: {
-        backEnd: ['mysql', 'mongoDB', 'redis', 'API design', 'SW architecture'],
-        nodeJS: ['expressJS', 'typeorm', 'jsonwebtoken'],
-        springBoot: ['JPA', 'REST APIs', 'Spring Security'],
-        devOps: ['Docker', 'CI/CD', 'Kubernetes', 'AWS']
-    }
-}
-```
+![DONGHYUNLEE!](https://github.com/user-attachments/assets/3f11ed2f-54ea-4e58-8c48-47120d488acb)
